@@ -3,8 +3,8 @@
 #include "esp_camera.h"
 #include "esp_http_server.h"
 
-const char* ssid = "fREE wIFI";
-const char* password = "kISCO@123x4";
+const char* ssid = "OPPO Reno12 5G";
+const char* password = "qiwa7765";
 
 #define PIN_FLASHLIGHT 4
 
